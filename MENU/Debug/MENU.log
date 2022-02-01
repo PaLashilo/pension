@@ -1,0 +1,5 @@
+﻿  MENU.cpp
+C:\Users\Yoga C940\Desktop\1 курс\MENU\MENU.cpp(24,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Yoga C940\Desktop\1 курс\MENU\MENU.cpp(24,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Yoga C940\Desktop\1 курс\MENU\MENU.cpp(73,12): warning C4101: sum: неиспользованная локальная переменная
+  MENU.vcxproj -> C:\Users\Yoga C940\Desktop\1 курс\MENU\Debug\MENU.exe
